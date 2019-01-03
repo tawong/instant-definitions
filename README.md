@@ -1,5 +1,5 @@
 # Instant Definitions JS
-A jQuery/Javscript plugin to display inline glossary terms and definitions on a page
+A jQuery/Javascript plugin to display inline glossary terms and definitions on a page
 
 - Reads terms and definitions from JSON file
 - Very non-developer friendly
