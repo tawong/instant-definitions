@@ -6,6 +6,8 @@ A jQuery plugin to create in-line glossary definitions on a page
 - Robust customization options
 - Manual tagging allows for more control
 
+### [View Demo](https://tawong.github.io/instant-definitions/)
+
 ## About
 
 This plugin imports terms you set in the JSON glossary file and then attaches a popup whenever a specifically tagged keyword is hovered. The plugin's styling can be customized extensively.
