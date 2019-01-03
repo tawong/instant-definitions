@@ -112,7 +112,7 @@ defaults = {
 
 ### Option Customization
 
-| Attribute        | Type           | Defualt  | Description |
+| Attribute        | Type           | Default  | Description |
 | :-------------|:-------------|:-----| :---|
 | `underlineColor`| String | `"#00c7c7"` | if `underlineText` is enabled, use this color|
 | `underlineWeight`| Int | `2` | if `underlineText` is enabled, make the underline this stroke weight |
