@@ -44,18 +44,9 @@
             }
         }
         if (settings.showTitles == true) {
-            $("body").append(`
-                <div id="idef-popup">
-                    <h1 id="idef-title"></h1>
-                    <p id="idef-definition"></p>
-                </div>
-            `);
+            $("body").append('<div id="idef-popup"><h1 id="idef-title"></h1><p id="idef-definition"></p></div>');
         } else {
-            $("body").append(`
-                <div id="idef-popup" class="no-title">
-                    <p id="idef-definition"></p>
-                </div>
-            `);
+            $("body").append('<div id="idef-popup" class="no-title"><p id="idef-definition"></p></div>');
         }
         var popup = $("#idef-popup");
 
